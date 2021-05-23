@@ -4,7 +4,7 @@ https://youtu.be/gHGsB89bcBE
 
 # Topla
 Uygulmaya ait tasarım ve kodları içermektedir.
-![WhatsApp Image 2021-05-21 at 21 29 36](https://user-images.githubusercontent.com/82779464/119265298-d9770a80-bbee-11eb-8260-9674e31e8794.jpeg)
+<img src= "https://user-images.githubusercontent.com/82779464/119265298-d9770a80-bbee-11eb-8260-9674e31e8794.jpeg" width="180" height="335">
 
 # App.js
 Uygulamanın ana kodudur. Uygulamada sayfa yönledirmeleri için kulllanılan TabNavigator ve açılış animasyonunu içermektedir.
