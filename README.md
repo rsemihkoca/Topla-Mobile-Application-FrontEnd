@@ -4,7 +4,8 @@ https://youtu.be/gHGsB89bcBE
 
 # Topla
 Uygulmaya ait tasarım ve kodları içermektedir.
-<img src= "https://user-images.githubusercontent.com/82779464/119265298-d9770a80-bbee-11eb-8260-9674e31e8794.jpeg" width="180" height="335">
+
+<img src= "https://user-images.githubusercontent.com/82779464/119265376-23f88700-bbef-11eb-9184-29c8b9f4c367.jpeg" width="335" height="180">
 
 # App.js
 Uygulamanın ana kodudur. Uygulamada sayfa yönledirmeleri için kulllanılan TabNavigator ve açılış animasyonunu içermektedir.
