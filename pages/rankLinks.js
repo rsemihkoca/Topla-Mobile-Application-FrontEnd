@@ -1,0 +1,22 @@
+const rankList={
+    1:"https://i.ibb.co/THRYFGx/1.png",
+    2:"https://i.ibb.co/jL7vLBD/2.png",
+    3:"https://i.ibb.co/9sfpVSJ/3.png",
+    4:"https://i.ibb.co/VjJJBJg/4.png",
+    5:"https://i.ibb.co/r6qBcGw/5.png",
+    6:"https://i.ibb.co/gZDvW1C/6.png",
+    7:"https://i.ibb.co/BBnFLHj/7.png",
+    8:"https://i.ibb.co/jRmWWrf/8.png",
+    9:"https://i.ibb.co/vJjJqHR/9.png",
+    10:"https://i.ibb.co/0F6s8cj/10.png",
+    11:"https://i.ibb.co/dp27TdW/11.png",
+    12:"https://i.ibb.co/nz0Qj3L/12.png",
+    13:"https://i.ibb.co/L6kfhry/13.png",
+    14:"https://i.ibb.co/470zftR/14.png",
+    15:"https://i.ibb.co/Ykt2LYM/15.png",
+    16:"https://i.ibb.co/NxcjJNx/16.png",
+    17:"https://i.ibb.co/12yh361/18.png",
+    18:"https://i.ibb.co/q1sf8qs/17.png",
+    19:"https://i.ibb.co/wLBHm3b/19.png",
+}
+export default rankList;
